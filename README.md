@@ -1,11 +1,14 @@
 Hello!
-I'm Sergey Kirichenko, glad to see you at my profile!
+My name is Sergey Kirichenko, glad to see you at my profile!
 
-I'm a Bauman Moscow State Technical University student, so you can see a lot of `bmstu-*` repositories over here -- those are for the next generations.
+I'm a student at Bauman Moscow State Technical University,
+so you can find a lot of `bmstu-*` repositories over here.
+Those are for the next generations!
 
-Moreover, I do am into things like:
-- ✨ functional programming;
-- ☕ formal language theory;
-- 👾 low-level programming.
+Moreover, I do am into things like these:
+- ✨ Functional programming
+- ☕ Formal language theory
+- 👾 Low-level programming
 
-Feel free to create pull requests, open issues, etc -- every collaboration is heartly appreciated!
+Feel free to create pull requests, open issues, etc.
+Every collaboration is heartly appreciated!
